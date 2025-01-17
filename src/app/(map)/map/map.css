@@ -1,0 +1,23 @@
+.map {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .map > div {
+    flex: 1;
+  }
+  
+  .sidebar {
+    flex: 0 0 250px;
+  }
+  
+  .map-container {
+    flex: 1;
+  }
+  
+  .footer {
+    flex: 0 0 auto;
+  }
+  
+  
